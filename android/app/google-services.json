@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353261626389",
+    "project_id": "haber-merkezi-e3c07",
+    "storage_bucket": "haber-merkezi-e3c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353261626389:android:78ea6e0b37302861225a1c",
+        "android_client_info": {
+          "package_name": "com.habermerkezi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353261626389-uffj5ttddub5n0e5lfvoapp9o7ipqma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpcI_ISgWirQhPywaLQg0LDxsxRk2OZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353261626389-uffj5ttddub5n0e5lfvoapp9o7ipqma3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353261626389-aca4os4pftdc1gup56pa2l0qnm3veevv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.habermerkezi.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
